@@ -22,14 +22,14 @@ void setup() {
  * Map x coordinates to the screen width
  */
 float mapX(float value) {
- return map(value, -0.1, 1.1, 0, width); 
+ return map(value, -0.1, 1.1, width, 0); 
 }
 
 /**
  * Map y coordinates to the screen height
  */
 float mapY(float value) {
- return map(value, -0.4, 0.5, 0, height); 
+ return map(value, -0.4, 0.5, height, 0); 
 }  
 
   
