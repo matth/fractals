@@ -1,7 +1,10 @@
 Fractals
 ========
 
-Some experiments in fractal geometry 
+Some experiments in fractal geometry:
+
+* book - Examples from the book "Fractals: Images of Chaos" ported to Processing
+* ruby - Examples written in ruby using opengl bindings
 
 License 
 -------
