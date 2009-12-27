@@ -2,7 +2,7 @@
  * koch, Koch Curve
  */
 
-int     p = 4;
+int     p = 5;
 float[] t = new float[p];
 float   h = pow(3, -p);
 
@@ -62,7 +62,7 @@ void draw() {
     x = old_x + cos(PI * s / 3) * h;
     y = old_y + sin(PI * s / 3) * h;   
    
-    line(mapX(old_x), mapY(old_y), mapX(old_x), mapY(old_y));
+    line(mapX(old_x), mapY(old_y), mapX(x), mapY(y));
 
   }
   
