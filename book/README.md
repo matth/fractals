@@ -1,5 +1,5 @@
-Fractals in Processing
-======================
+Fractals: Images of Chaos
+=========================
 
 This is a selection of fractals from the 1987 book [Fractals: Images of Chaos](http://www.amazon.co.uk/Fractals-Images-Chaos-Penguin-Science/dp/0140144110) by Hans Lauwerier, which was also published in the US under the name [Fractals: Endlessly Repeated Geometrical Figures](http://www.amazon.com/Fractals-Endlessly-Repeated-Geometrical-Figures/dp/0691024456).
 
