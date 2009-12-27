@@ -4,6 +4,7 @@ Fractals
 Some experiments in fractal geometry:
 
 * book - Examples from the book "Fractals: Images of Chaos" ported to Processing
+* processing - Other examples written in Processing
 * ruby - Examples written in ruby using opengl bindings
 
 License 
