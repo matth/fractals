@@ -1,0 +1,4 @@
+= Fractals in Ruby / OpenGL
+
+This requires ruby opengl packages
+
