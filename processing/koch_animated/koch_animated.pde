@@ -1,5 +1,6 @@
 /**
- * koch, Koch Curve
+ * koch_animated, Animated Koch curve, based on the file koch from the
+ * book "Fractals: Images of chaos"
  */
 
 /**
@@ -28,7 +29,9 @@ float mapY(float value) {
  return map(value, -0.4, 0.5, height, 0); 
 }  
 
-
+/**
+ * Number of iterations
+ */
 int count = 0;
   
 /**
